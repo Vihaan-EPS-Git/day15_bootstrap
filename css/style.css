@@ -1,0 +1,15 @@
+body {
+    padding-top: 35px;
+}
+
+.btn-primary {
+    background-color: #497c41;
+    border-color: #007bff;
+    color: #fff;
+}
+
+.btn-secondary {
+    background-color: #97de89;
+    border-color: #3fa15f;
+    color: #59615b;
+}
